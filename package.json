@@ -18,7 +18,7 @@
     "url": "https://github.com/widernet/theme/issues"
   },
   "homepage": "https://github.com/widernet/theme#readme",
-  "dependencies": {
+  "devDependencies": {
     "tailwind-config-viewer": "^1.2.4"
   }
 }
